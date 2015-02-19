@@ -1,7 +1,7 @@
 {
   "name": "npm-howtonpm",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm-howtonpm",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
